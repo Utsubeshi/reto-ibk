@@ -10,36 +10,36 @@ Listar Superhéroes:
 
 Los usuarios deben poder ver una lista de todos los superhéroes almacenados en la tabla "Superheroes".
 
-#### Actualizar un Superhéroe:
+### Actualizar un Superhéroe:
 
 Los usuarios deben poder actualizar el nombre, la descripción o la clasificación de poder de un superhéroe existente.
 
-#### Eliminar un Superhéroe:
+### Eliminar un Superhéroe:
 
 Los usuarios deben poder eliminar un superhéroe de la tabla "Superheroes".
 
-#### Crear una Habilidad:
+### Crear una Habilidad:
 
 Crea una tabla llamada "Habilidades" que tenga un campo para el nombre de la habilidad y un nivel de poder asociado.
 Los usuarios deben poder crear una nueva habilidad y asociarla a un superhéroe existente.
 
-#### Listar Habilidades de un Superhéroe:
+### Listar Habilidades de un Superhéroe:
 
 Los usuarios deben poder ver la lista de habilidades asociadas a un superhéroe específico.
 
-#### Actualizar una Habilidad:
+### Actualizar una Habilidad:
 
 Los usuarios deben poder actualizar el nombre o el nivel de poder de una habilidad existente.
 
-#### Eliminar una Habilidad:
+### Eliminar una Habilidad:
 
 Los usuarios deben poder eliminar una habilidad de la base de datos. (Nota: Debes considerar las opciones de integridad referencial).
 
-#### Buscar Superhéroes por Nombre:
+### Buscar Superhéroes por Nombre:
 
 Los usuarios deben poder buscar superhéroes por su nombre. El sistema debe devolver una lista de superhéroes cuyos nombres coincidan parcial o completamente con el término de búsqueda.
 
-#### Filtrar Superhéroes por Nivel de Poder:
+### Filtrar Superhéroes por Nivel de Poder:
 
 Los usuarios deben poder filtrar la lista de superhéroes por nivel de poder (por ejemplo, bajo, medio, alto). Deben poder seleccionar un nivel de poder y obtener la lista de superhéroes que tienen ese nivel.
 
