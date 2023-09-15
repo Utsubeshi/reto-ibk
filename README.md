@@ -2,7 +2,7 @@
 ## Contexto del Desafío :superhero: :superhero_woman:
 Has sido contratado por la organización ficticia "SuperHeroIBK" para desarrollar un sistema de gestión de superhéroes, enfocándote únicamente en el backend. El sistema debe permitir a los usuarios realizar las siguientes operaciones:
 
-#### Crear un Superhéroe:
+### Crear un Superhéroe:
 
 Un superhéroe debe tener un nombre, una descripción y una clasificación de poder (por ejemplo, bajo, medio, alto).
 Debe almacenarse en la base de datos en una tabla llamada "Superheroes".
